@@ -1,6 +1,30 @@
-p{
-    color: red;
+body{
+  background-color: powderblue;
 }
-h3{
-    color: aqua;
+.form{
+  text-align: center;
+  color: black;
+  
+}
+.pic{
+  text-align: right;
+}
+*{
+  text-align: center ;
+  color: Black;
+  border-radius: 5px;
+}
+.btn{
+  background-color: greenyellow;
+  color: black;
+  font-weight: 500;
+  
+}
+.btnn{
+  background-color: red;
+  color: white;
+  font-weight: 500;
+}
+
+.name{
 }
